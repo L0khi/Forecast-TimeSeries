@@ -23,12 +23,6 @@ ForecastPro is a complete time series forecasting solution built to predict futu
 | LSTM (PyTorch) | 2.08   | 2.85   |
 | Meta-Ensemble  | 1.55   | 2.06   |
 
-## 🚀 Run the App
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ## 📁 Folder Structure
 
