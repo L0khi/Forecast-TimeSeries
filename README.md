@@ -23,26 +23,6 @@ ForecastPro is a complete time series forecasting solution built to predict futu
 | LSTM (PyTorch) | 2.08   | 2.85   |
 | Meta-Ensemble  | 1.55   | 2.06   |
 
-## 🖼️ Screenshots
-
-### Forecast Comparison
-![Forecast Comparison](screenshots/output.png)
-
-### Seasonal Decomposition
-![Seasonality](screenshots/outputsssss.png)
-
-### ACF & PACF
-![ACF PACF](screenshots/outputssswe.png)
-
-### Monthly Box Plot
-![Monthly](screenshots/scsdcsdc.png)
-
-### Rolling Standard Deviation
-![STD](screenshots/sddfv.png)
-
-### Rolling Mean
-![Mean](screenshots/eacsc.png)
-
 ## 🚀 Run the App
 
 ```bash
